@@ -6,4 +6,4 @@ resources:
 
 images:
 - name: ghcr.io/bl-solutions/labs-argocd-build
-  newTag: ghcr.io/bl-solutions/labs-argocd-build:main
+  newTag: main
